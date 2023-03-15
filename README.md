@@ -1,2 +1,2 @@
 # ToDoList
-Simple to do list in SWIFTUI
+This is a simple To-Do list created in Xcode with SwiftUI. Realm was used for persistence.
